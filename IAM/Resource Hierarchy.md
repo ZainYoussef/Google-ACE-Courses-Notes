@@ -19,6 +19,8 @@ Policies can be applied to this hierarchy, and they are inherited downwards.
   - Organization Admin
   - Project Creator
 
+![image](https://github.com/ZainYoussef/Google-ACE-Courses-Notes/assets/85849430/3776d6ce-b79f-4cae-9ceb-e99d4da4e6b9)
+
 ### Special Roles
 
 - **Organization Admin**: Does not have permission to create projects.
@@ -36,5 +38,11 @@ Policies can be applied to this hierarchy, and they are inherited downwards.
   - **Project ID**: Immutable, globally unique, can be changed by you during creation.
   - **Project Name**: Mutable, not unique.
   - **Project Number**: Immutable, globally unique, assigned by Google.
+ 
+---
+
+![image](https://github.com/ZainYoussef/Google-ACE-Courses-Notes/assets/85849430/aeac2cc5-6ca8-4c8a-ad7c-0f8e033886b1 )
+
+![image](https://github.com/ZainYoussef/Google-ACE-Courses-Notes/assets/85849430/a7054789-c733-4fbd-ac0a-31705c6401fa)
 
 ---
