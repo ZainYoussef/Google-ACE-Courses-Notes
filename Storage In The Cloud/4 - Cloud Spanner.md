@@ -3,6 +3,9 @@
 **Overview:**
 Cloud Spanner is a fully managed, mission-critical relational database service that offers transactional consistency at a global scale, supporting schemas, SQL (ANSI 2011 with extensions), and automatic synchronous replication for high availability.
 
+
+![image](https://github.com/ZainYoussef/Google-ACE-Courses-Notes/assets/85849430/b62d7d5d-9b34-4dc2-a3b6-136e6bcdb186)
+
 **Benefits of Cloud Spanner:**
 - **Horizontal Scalability:**
   - Scales horizontally by adding more machines to the resource pool, supporting petabytes of data and thousands of concurrent users.
@@ -52,3 +55,5 @@ Cloud Spanner is a fully managed, mission-critical relational database service t
 7. Once migration is complete, delete the MySQL database.
 
 ---
+Choosing Cloud Spanner:
+![image](https://github.com/ZainYoussef/Google-ACE-Courses-Notes/assets/85849430/6b26b0db-8034-4154-b623-4123d727b42b)
