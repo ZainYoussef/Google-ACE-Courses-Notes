@@ -1,4 +1,3 @@
-You've provided a comprehensive overview of Google Cloud Platform's (GCP) App Engine, a fully managed, serverless platform for developing and hosting web applications. Here are some key points from your information:
 
 ### App Engine Overview:
 
